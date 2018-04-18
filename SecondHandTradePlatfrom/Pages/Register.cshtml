@@ -1,0 +1,19 @@
+﻿@page
+@model SecondHandTradePlatfrom.Pages.RegisterModel
+@{
+    ViewData["Title"] = "Register";
+}
+<form asp-page="Register" method="post" enctype="multipart/form-data" style="width:10em; vertical-align:central">
+    <div id="input_name" data-header="姓名*" data-control="input" class="input-item" data-type="text" ></div>
+    <div id="input_password" data-header="密码*" data-control="input" class="input-item" data-type="text"></div>
+    <div id="selection_school" data-header="学校*" data-control="listbox" >
+        <span data-id="1">北京理工大学</span>
+        <span data-id="2">北京埋土大学</span>
+        <span data-id="3">中国人民大学</span>
+    </div>
+    <div id="input_phoneNumber" data-header="手机" data-control="input" class="input-item" data-type="text"></div>
+    <div id="btn_submit" style="margin: 1em 0.3em;" data-control="submit" data-text="提交" data-type="password"></div>
+</form>
+
+
+

@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>@ViewData["Title"]</title>
+    <environment names="Development">
+        <link rel="stylesheet" href="~/lib/npstrap/css/controls.css" />
+        <link rel="stylesheet" href="~/lib/npstrap/css/general.css" />
+    </environment>
+    <environment names="Staging,Production">
+        <link rel="stylesheet" href="~/lib/npstrap/css/controls.min.css" />
+        <link rel="stylesheet" href="~/lib/npstrap/css/general.min.css" />
+    </environment>
+
+    @RenderSection("styles", required: false)
+
+</head>
+<body>
+    @RenderBody()
+
+    <environment names="Development">
+        <script src="~/lib/jquery/dist/jquery.js"></script>
+        <script src="~/lib/jquery-ext/jquery.md5.js"></script>
+        <script src="~/lib/npstrap/js/controls.js"></script>
+    </environment>
+    <environment names="Staging,Production">
+        <script src="~/lib/jquery/dist/jquery.min.js"></script>
+        <script src="~/lib/jquery-ext/jquery.md5.js"></script>
+        <script src="~/lib/npstrap/js/controls.min.js"></script>
+    </environment>
+
+
+    @RenderSection("scripts", required: false)
+</body>
+</html>

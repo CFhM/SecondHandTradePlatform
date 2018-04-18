@@ -1,0 +1,11 @@
+D:\programs\dotnetCore\SecondHandTradePlatfrom\SecondHandTradePlatfrom\bin\Debug\netcoreapp2.0\SecondHandTradePlatfrom.deps.json
+D:\programs\dotnetCore\SecondHandTradePlatfrom\SecondHandTradePlatfrom\bin\Debug\netcoreapp2.0\SecondHandTradePlatfrom.runtimeconfig.json
+D:\programs\dotnetCore\SecondHandTradePlatfrom\SecondHandTradePlatfrom\bin\Debug\netcoreapp2.0\SecondHandTradePlatfrom.runtimeconfig.dev.json
+D:\programs\dotnetCore\SecondHandTradePlatfrom\SecondHandTradePlatfrom\bin\Debug\netcoreapp2.0\SecondHandTradePlatfrom.dll
+D:\programs\dotnetCore\SecondHandTradePlatfrom\SecondHandTradePlatfrom\bin\Debug\netcoreapp2.0\SecondHandTradePlatfrom.pdb
+D:\programs\dotnetCore\SecondHandTradePlatfrom\SecondHandTradePlatfrom\obj\Debug\netcoreapp2.0\SecondHandTradePlatfrom.csprojResolveAssemblyReference.cache
+D:\programs\dotnetCore\SecondHandTradePlatfrom\SecondHandTradePlatfrom\obj\Debug\netcoreapp2.0\SecondHandTradePlatfrom.csproj.CoreCompileInputs.cache
+D:\programs\dotnetCore\SecondHandTradePlatfrom\SecondHandTradePlatfrom\obj\Debug\netcoreapp2.0\SecondHandTradePlatfrom.AssemblyInfoInputs.cache
+D:\programs\dotnetCore\SecondHandTradePlatfrom\SecondHandTradePlatfrom\obj\Debug\netcoreapp2.0\SecondHandTradePlatfrom.AssemblyInfo.cs
+D:\programs\dotnetCore\SecondHandTradePlatfrom\SecondHandTradePlatfrom\obj\Debug\netcoreapp2.0\SecondHandTradePlatfrom.dll
+D:\programs\dotnetCore\SecondHandTradePlatfrom\SecondHandTradePlatfrom\obj\Debug\netcoreapp2.0\SecondHandTradePlatfrom.pdb
