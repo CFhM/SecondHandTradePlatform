@@ -5,6 +5,7 @@ using System.ComponentModel.DataAnnotations;
 using Microsoft.Extensions.DependencyInjection;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Mvc;
 
 namespace SecondHandTradePlatfrom.Validation
 {
@@ -25,6 +26,8 @@ namespace SecondHandTradePlatfrom.Validation
                 return new ValidationResult("It is not a supportted school name");
             }
             return ValidationResult.Success;
+
+            
         }
     }
 }

@@ -13131,11 +13131,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\programs\\dotnetCore\\SecondHandTradePlatfrom\\SecondHandTradePlatfrom\\SecondHandTradePlatfrom.csproj",
+      "projectUniqueName": "D:\\Github\\second-hand-trade-platform\\SecondHandTradePlatfrom\\SecondHandTradePlatfrom.csproj",
       "projectName": "SecondHandTradePlatfrom",
-      "projectPath": "D:\\programs\\dotnetCore\\SecondHandTradePlatfrom\\SecondHandTradePlatfrom\\SecondHandTradePlatfrom.csproj",
+      "projectPath": "D:\\Github\\second-hand-trade-platform\\SecondHandTradePlatfrom\\SecondHandTradePlatfrom.csproj",
       "packagesPath": "C:\\Users\\tangh\\.nuget\\packages\\",
-      "outputPath": "D:\\programs\\dotnetCore\\SecondHandTradePlatfrom\\SecondHandTradePlatfrom\\obj\\",
+      "outputPath": "D:\\Github\\second-hand-trade-platform\\SecondHandTradePlatfrom\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
